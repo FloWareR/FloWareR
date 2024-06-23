@@ -1,9 +1,23 @@
 <h1 align="center">Hey there! I'm Rafael Flores</h1>
 <h3 align="center">A passionate Game / Backend developer from Guadalajara!</h3>
 
-<h4>Always looking to learn something new, create and explore. Join me on my dev journey!</h4>
-- 📫 Reach me  **rafaxtz3@gmail.com**
+<h4>Always looking to learn something new, create and explore. &nbsp Join me on my dev journey!</h4>
 
+- 📫 Reach me  **rafaxtz3@gmail.com**
+</br>
+
+```JSON
+{
+  "name": "Rafael",
+  "age": 23,
+  "status": "student",
+  "hobbies": [
+    "gaming",
+    "learning",
+    "exercising"
+  ]
+}
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
