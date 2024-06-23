@@ -4,11 +4,6 @@
 <h4>Always looking to learn something new, create and explore. Join me on my dev journey!</h4>
 - 📫 Reach me  **rafaxtz3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafael-flores-85a5a4289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-flores-85a5a4289/" height="30" width="40" /></a>
-<a href="https://instagram.com/https.rafx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https.rafx" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,4 +27,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp&nbsp
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>&nbsp&nbsp
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>&nbsp&nbsp
+</p>
+<h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://linkedin.com/in/rafael-flores-85a5a4289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-flores-85a5a4289/" height="30"     width="40" /></a>
+  <a href="https://instagram.com/https.rafx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https.rafx" height="30" width="40" /></a>
 </p>
