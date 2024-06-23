@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Rafael Flores</h1>
-<h3">A passionate Game / Backend developer from Guadalajara!</h3>
+<h3>A passionate Game / Backend developer from Guadalajara!</h3>
 
 <h4>Always looking to learn something new, create and explore. &nbsp Join me on my dev journey!</h4>
 
