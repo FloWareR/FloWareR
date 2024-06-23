@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rafael Flores</h1>
+<h1 align="center">Hey there! I'm Rafael Flores</h1>
 <h3 align="center">A passionate Game / Backend developer from Guadalajara!</h3>
 
-- 📫 How to reach me **rafaxtz3@gmail.com**
+<h4>Always looking to learn something new, create and explore. Join me on my dev journey!</h4>
+- 📫 Reach me  **rafaxtz3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
