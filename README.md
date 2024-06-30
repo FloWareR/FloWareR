@@ -3,13 +3,11 @@
 <h3>A passionate Game / Backend developer from Guadalajara! <img align ="right" margin="50px" src="https://community.aseprite.org/uploads/default/original/3X/a/9/a9378435ab8cf241898a33b66964051ffb3c9a0f.gif" width="100" height="100" /> </h3>
 
 <h4>Always looking to learn something new, create and explore. Join me on my dev journey!</h4>
-- 📫 Reach me  **rafaxtz3@gmail.com**
-</br>
 </br>
 
 ```JSON
 {
-  "name": "Rafael",
+  "email": "rafaxtz3@gmail.com",
   "age": 23,
   "status": "student",
   "hobbies": [
