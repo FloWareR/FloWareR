@@ -5,6 +5,7 @@
 <h4>Always looking to learn something new, create and explore. Join me on my dev journey!</h4>
 </br>
 </br>
+
 ```JSON
 {
   "email": "rafaxtz3@gmail.com",
