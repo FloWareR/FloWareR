@@ -13,8 +13,8 @@
   "status": "student",
   "hobbies": [
     "gaming",
-    "learning",
-    "exercising"
+    "coding",
+    "learning"
   ]
 }
 ```
